@@ -2,6 +2,8 @@
 
 A macOS shell-based policy manager for turning Brave Browser into a leaner, quieter, privacy-focused browser by disabling Brave AI, Rewards, Wallet, VPN, News, Talk, telemetry, usage ping, Web Discovery, the built-in password manager, autofill, and selected Chromium background/reporting features.
 
+![](Screenshot.png)
+
 This project is an **unofficial macOS companion** inspired by [TahaHydra/Brave-Free-Origin](https://github.com/TahaHydra/Brave-Free-Origin), which provides a Windows GUI implementation using PowerShell and Windows Registry policies.
 
 This repository is **not a forked Windows GUI port**. It uses macOS Managed Preferences:
